@@ -33,6 +33,7 @@ Among other tasks, the tools allow modelers to:
    api/disutility
    api/project
    api/tools
+   api/data-sources
    api/util
    api/testing
    api/workflow
